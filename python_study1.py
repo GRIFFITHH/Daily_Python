@@ -36,3 +36,5 @@ print('%.5s' % ('nice body'))
 print('%5s' % ('nice body'))
 
 print('{:^10.5}' .format('pythonstudy'))
+
+print('{2}{1}{0}' .format('2','1','3'))
